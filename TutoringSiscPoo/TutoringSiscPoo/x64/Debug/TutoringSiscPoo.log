@@ -1,0 +1,6 @@
+﻿  SubiectExamenOop.cpp
+C:\Users\Ene_A\OneDrive\Desktop\oop github\Rosianu_SoniaLuminita_ActivitatePOOID2024\TutoringSiscPoo\SubiectExamenOop.cpp(94,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ene_A\OneDrive\Desktop\oop github\Rosianu_SoniaLuminita_ActivitatePOOID2024\TutoringSiscPoo\SubiectExamenOop.cpp(95,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ene_A\OneDrive\Desktop\oop github\Rosianu_SoniaLuminita_ActivitatePOOID2024\TutoringSiscPoo\SubiectExamenOop.cpp(99,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ene_A\OneDrive\Desktop\oop github\Rosianu_SoniaLuminita_ActivitatePOOID2024\TutoringSiscPoo\SubiectExamenOop.cpp(104,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  TutoringSiscPoo.vcxproj -> C:\Users\Ene_A\OneDrive\Desktop\oop github\Rosianu_SoniaLuminita_ActivitatePOOID2024\TutoringSiscPoo\x64\Debug\TutoringSiscPoo.exe
